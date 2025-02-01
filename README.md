@@ -8,4 +8,6 @@ Modeling_fllama_soft.py is a modification of modeling_fllama.py where we can not
 Doing inference on the Llama 3.2 1b instruct unpruned model, we can use baseline_model_inference.py. 
 Doing inference and training, we need to load functions from fllama_boolean_expressions_fs.py, I0_fllama.py, and modeling_fllama_soft.py
 
+Amplify_edges.py is a code which can help you directly rank the attention edges.
+
 ****
