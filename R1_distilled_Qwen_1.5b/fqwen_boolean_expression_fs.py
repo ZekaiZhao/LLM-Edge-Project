@@ -1,5 +1,3 @@
-# fqwen_boolen_expression_fs.py
-
 import logging
 import os
 import sys
